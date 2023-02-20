@@ -1,5 +1,9 @@
 body {
     text-align: center;
+    max-width: auto;
+    min-width: none;
+    max-height: auto;
+    min-height: none;
 }
 
 h1 {
@@ -43,12 +47,13 @@ ul{
     text-align: center;
 }
 li {
-    margin: 5px;
+    margin: auto;
+    text-align: center;
 }
 a{
     color: white;
 }
 #img1 {
-    width: 40%;
-    height: 30%;
+    width: 35vw;
+    height: 20vw;
 }
