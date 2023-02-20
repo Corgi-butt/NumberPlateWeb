@@ -40,16 +40,9 @@ h1 {
 
 #googlelist {
     list-style: none;
+    float:none;
 }
 
-ul{
-    list-style: none;
-    text-align: center;
-}
-li {
-    margin: auto;
-    text-align: center;
-}
 a{
     color: white;
 }
